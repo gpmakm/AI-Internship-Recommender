@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body,form{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        form{
+            flex-direction: column;
+            width: 70vw;
+            height: auto;
+            padding: 5px;
+            margin: 5px;
+            border: 3px solid black;
+        }
+        button{
+            background-color: rgb(49, 149, 250);
+            color: white;
+            padding: 5px;
+            margin: 5px;
+        }
+        form .field{
+            width: 65vw;
+            height: 5vh;
+        }
+    </style>
+</head>
+<body>
+    <div class="regform">
+        <form action="http://localhost:5000/user-registration" method="post">
+            <h2>User registration</h2>
+            <label for="name">What is your name?</label>
+            <div>
+                <input type="text" name="uname" id="name" class="field">
+            </div>
+            <label for="name">What is your email?</label>
+            <div>
+                <input type="email" name="email" id="email" class="field">
+            </div>
+            <label for="exp">What is your qualification(12th, UG,PG)?</label>
+            <div>
+                <input type="number" name="experience" id="exp" class="field">
+            </div>
+            <label for="skill1">What is your skill1?</label>
+            <div>
+                <input type="text" name="skill1" id="skill1" class="field">
+            </div>
+            <label for="skill2">What is your skill2?</label>
+            <div>
+                <input type="text" name="skill2" id="skill2" class="field">
+            </div>
+            <label for="name">What is your skill3?</label>
+            <div>
+                <input type="text" name="skill3" id="skill3" class="field">
+            </div>
+            <label for="add">What is your address?</label>
+            <div>
+                <input type="text" name="address" id="add" class="field">
+            </div>
+            <label for="jpl">What is your job preferred location?</label>
+            <div>
+                <input type="text" name="jobPrefLocation" id="jpl" class="field">
+            </div>
+            <label for="exp">What is your experience(in years)?</label>
+            <div>
+                <input type="number" name="experience" id="exp" class="field">
+            </div>
+            <label for="cat">What is your category?</label>
+            <div>
+                <input type="text" name="category" id="cat" class="field">
+            </div>
+            <button>Submit</button>
+        </form>
+    </div>
+    <div class="regform">
+        <form action="http://localhost:5000/upload-internship-details" method="post">
+            <label for="id">Enter internship id</label>
+            <div><input type="number" name="id" id="id" class="field"></div>
+            <label for="title">Enter internship title</label>
+            <div><input type="text" name="title" id="title" class="field"></div>
+            <label for="field">Enter internship field</label>
+            <div><input type="text" name="field" id="field" class="field"></div>
+            <label for="location">Enter internship location</label>
+            <div><input type="text" name="location" id="location" class="field"></div>
+            <button>Submit</button>
+            
+        </form>
+    </div>
+    <div class="regform">
+        <form action="http://localhost:5000/upload-internship-file" method="post">
+            <input type="file" name="file">
+            <button>Submit</button>
+        </form>
+    </div>
+    <div>
+        <form action="http://localhost:5000/recommend-internships" method="post">
+            <button>Recommend internsip</button>
+        </form>
+    </div>
+</body>
+</html>

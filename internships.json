@@ -1,0 +1,237 @@
+[
+  {
+    "internship_id": 1,
+    "title": "Data Analyst Intern",
+    "required_skills": [
+      "MongoDB",
+      "AI",
+      "Python"
+    ],
+    "location": "Mumbai",
+    "capacity": 2,
+    "sector": "Finance"
+  },
+  {
+    "internship_id": 2,
+    "title": "Backend Developer Intern",
+    "required_skills": [
+      "MongoDB",
+      "Data Analysis"
+    ],
+    "location": "Patna",
+    "capacity": 5,
+    "sector": "Finance"
+  },
+  {
+    "internship_id": 3,
+    "title": "Backend Developer Intern",
+    "required_skills": [
+      "C++",
+      "MongoDB"
+    ],
+    "location": "Lucknow",
+    "capacity": 6,
+    "sector": "Business"
+  },
+  {
+    "internship_id": 4,
+    "title": "Backend Developer Intern",
+    "required_skills": [
+      "SQL",
+      "MongoDB",
+      "Java",
+      "C++"
+    ],
+    "location": "Kolkata",
+    "capacity": 6,
+    "sector": "Finance"
+  },
+  {
+    "internship_id": 5,
+    "title": "Backend Developer Intern",
+    "required_skills": [
+      "SQL",
+      "MySQL",
+      "Communication",
+      "Java"
+    ],
+    "location": "Patna",
+    "capacity": 4,
+    "sector": "Research"
+  },
+  {
+    "internship_id": 6,
+    "title": "Backend Developer Intern",
+    "required_skills": [
+      "C++",
+      "Express",
+      "MongoDB"
+    ],
+    "location": "Patna",
+    "capacity": 2,
+    "sector": "Business"
+  },
+  {
+    "internship_id": 7,
+    "title": "Data Analyst Intern",
+    "required_skills": [
+      "Spring Boot",
+      "React",
+      "Machine Learning"
+    ],
+    "location": "Lucknow",
+    "capacity": 3,
+    "sector": "Finance"
+  },
+  {
+    "internship_id": 8,
+    "title": "AI Developer Intern",
+    "required_skills": [
+      "SQL",
+      "Express",
+      "Java",
+      "Python"
+    ],
+    "location": "Hyderabad",
+    "capacity": 4,
+    "sector": "Research"
+  },
+  {
+    "internship_id": 9,
+    "title": "AI Developer Intern",
+    "required_skills": [
+      "AI",
+      "Data Analysis",
+      "Express"
+    ],
+    "location": "Patna",
+    "capacity": 6,
+    "sector": "Finance"
+  },
+  {
+    "internship_id": 10,
+    "title": "Frontend Developer Intern",
+    "required_skills": [
+      "Data Analysis",
+      "React"
+    ],
+    "location": "Chennai",
+    "capacity": 4,
+    "sector": "Research"
+  },
+  {
+    "internship_id": 11,
+    "title": "Data Analyst Intern",
+    "required_skills": [
+      "Data Analysis",
+      "MySQL"
+    ],
+    "location": "Hyderabad",
+    "capacity": 6,
+    "sector": "Finance"
+  },
+  {
+    "internship_id": 12,
+    "title": "Finance Intern",
+    "required_skills": [
+      "AI",
+      "React"
+    ],
+    "location": "Bengaluru",
+    "capacity": 6,
+    "sector": "Business"
+  },
+  {
+    "internship_id": 13,
+    "title": "Finance Intern",
+    "required_skills": [
+      "React",
+      "C++"
+    ],
+    "location": "Patna",
+    "capacity": 3,
+    "sector": "Research"
+  },
+  {
+    "internship_id": 14,
+    "title": "Data Analyst Intern",
+    "required_skills": [
+      "Express",
+      "Java"
+    ],
+    "location": "Lucknow",
+    "capacity": 4,
+    "sector": "Technology"
+  },
+  {
+    "internship_id": 15,
+    "title": "Business Analyst Intern",
+    "required_skills": [
+      "Deep Learning",
+      "MySQL",
+      "Data Analysis"
+    ],
+    "location": "Bengaluru",
+    "capacity": 5,
+    "sector": "Research"
+  },
+  {
+    "internship_id": 16,
+    "title": "Data Analyst Intern",
+    "required_skills": [
+      "AI",
+      "MongoDB"
+    ],
+    "location": "Chennai",
+    "capacity": 2,
+    "sector": "Finance"
+  },
+  {
+    "internship_id": 17,
+    "title": "Finance Intern",
+    "required_skills": [
+      "Deep Learning",
+      "C++",
+      "MySQL"
+    ],
+    "location": "Delhi",
+    "capacity": 4,
+    "sector": "Technology"
+  },
+  {
+    "internship_id": 18,
+    "title": "Data Analyst Intern",
+    "required_skills": [
+      "Communication",
+      "Data Analysis",
+      "SQL",
+      "MongoDB"
+    ],
+    "location": "Patna",
+    "capacity": 5,
+    "sector": "Finance"
+  },
+  {
+    "internship_id": 19,
+    "title": "Backend Developer Intern",
+    "required_skills": [
+      "SQL",
+      "Express",
+      "Data Analysis"
+    ],
+    "location": "Lucknow",
+    "capacity": 6,
+    "sector": "Business"
+  },
+  {
+    "internship_id": 20,
+    "title": "AI Developer Intern",
+    "required_skills": [
+      "Spring Boot",
+      "MySQL"
+    ],
+    "location": "Lucknow",
+    "capacity": 3,
+    "sector": "Technology"
+  }
+]

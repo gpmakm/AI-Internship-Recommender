@@ -1,0 +1,2897 @@
+[
+  {
+    "candidate_id": 1,
+    "name": "Rahul Mehta 1",
+    "skills": [
+      "Deep Learning",
+      "AI",
+      "C++"
+    ],
+    "qualification": "B.Com",
+    "experience": 2,
+    "location": "Mumbai",
+    "category": "SC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 2,
+    "name": "Karan Singh 2",
+    "skills": [
+      "C++",
+      "MongoDB"
+    ],
+    "qualification": "B.Tech CSE",
+    "experience": 4,
+    "location": "Bengaluru",
+    "category": "OBC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 3,
+    "name": "Sandeep Roy 3",
+    "skills": [
+      "Machine Learning",
+      "Node.js",
+      "AI"
+    ],
+    "qualification": "M.Tech",
+    "experience": 1,
+    "location": "Chennai",
+    "category": "ST",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 4,
+    "name": "Priya Sharma 4",
+    "skills": [
+      "C++",
+      "Communication",
+      "AI",
+      "MySQL",
+      "Data Analysis"
+    ],
+    "qualification": "M.Tech",
+    "experience": 0,
+    "location": "Kolkata",
+    "category": "OBC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 5,
+    "name": "Anjali Das 5",
+    "skills": [
+      "Deep Learning",
+      "Spring Boot",
+      "MySQL",
+      "Java",
+      "Python"
+    ],
+    "qualification": "MBA",
+    "experience": 1,
+    "location": "Delhi",
+    "category": "ST",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 6,
+    "name": "Amit Verma 6",
+    "skills": [
+      "Deep Learning",
+      "Python"
+    ],
+    "qualification": "B.Com",
+    "experience": 2,
+    "location": "Lucknow",
+    "category": "ST",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 7,
+    "name": "Karan Singh 7",
+    "skills": [
+      "Spring Boot",
+      "AI",
+      "Machine Learning",
+      "React",
+      "Data Analysis"
+    ],
+    "qualification": "B.Sc IT",
+    "experience": 4,
+    "location": "Bengaluru",
+    "category": "ST",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 8,
+    "name": "Pooja Mishra 8",
+    "skills": [
+      "Java",
+      "SQL",
+      "Python",
+      "Node.js"
+    ],
+    "qualification": "MBA",
+    "experience": 0,
+    "location": "Delhi",
+    "category": "SC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 9,
+    "name": "Anjali Das 9",
+    "skills": [
+      "Node.js",
+      "Express"
+    ],
+    "qualification": "12th Pass",
+    "experience": 3,
+    "location": "Hyderabad",
+    "category": "General",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 10,
+    "name": "Anjali Das 10",
+    "skills": [
+      "Machine Learning",
+      "Express",
+      "Java",
+      "Data Analysis"
+    ],
+    "qualification": "M.Tech",
+    "experience": 4,
+    "location": "Bengaluru",
+    "category": "General",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 11,
+    "name": "Anjali Das 11",
+    "skills": [
+      "Deep Learning",
+      "Node.js",
+      "Python"
+    ],
+    "qualification": "MBA",
+    "experience": 4,
+    "location": "Lucknow",
+    "category": "OBC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 12,
+    "name": "Anjali Das 12",
+    "skills": [
+      "Data Analysis",
+      "Python"
+    ],
+    "qualification": "12th Pass",
+    "experience": 1,
+    "location": "Delhi",
+    "category": "General",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 13,
+    "name": "Neha Yadav 13",
+    "skills": [
+      "Spring Boot",
+      "MySQL",
+      "Java",
+      "Python"
+    ],
+    "qualification": "MBA",
+    "experience": 3,
+    "location": "Bengaluru",
+    "category": "OBC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 14,
+    "name": "Priya Sharma 14",
+    "skills": [
+      "C++",
+      "Express",
+      "MySQL"
+    ],
+    "qualification": "B.Tech CSE",
+    "experience": 0,
+    "location": "Mumbai",
+    "category": "ST",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 15,
+    "name": "Karan Singh 15",
+    "skills": [
+      "MongoDB",
+      "Deep Learning",
+      "C++",
+      "SQL",
+      "Python"
+    ],
+    "qualification": "B.Com",
+    "experience": 2,
+    "location": "Lucknow",
+    "category": "General",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 16,
+    "name": "Ravi Kumar 16",
+    "skills": [
+      "React",
+      "C++"
+    ],
+    "qualification": "B.Tech CSE",
+    "experience": 4,
+    "location": "Hyderabad",
+    "category": "OBC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 17,
+    "name": "Anjali Das 17",
+    "skills": [
+      "React",
+      "Machine Learning",
+      "SQL"
+    ],
+    "qualification": "12th Pass",
+    "experience": 2,
+    "location": "Kolkata",
+    "category": "ST",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 18,
+    "name": "Karan Singh 18",
+    "skills": [
+      "Node.js",
+      "Communication"
+    ],
+    "qualification": "MBA",
+    "experience": 2,
+    "location": "Lucknow",
+    "category": "OBC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 19,
+    "name": "Ravi Kumar 19",
+    "skills": [
+      "Data Analysis",
+      "C++",
+      "Java",
+      "React",
+      "Node.js"
+    ],
+    "qualification": "B.Com",
+    "experience": 3,
+    "location": "Delhi",
+    "category": "OBC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 20,
+    "name": "Karan Singh 20",
+    "skills": [
+      "SQL",
+      "Node.js",
+      "MySQL"
+    ],
+    "qualification": "B.Tech CSE",
+    "experience": 3,
+    "location": "Kolkata",
+    "category": "ST",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 21,
+    "name": "Karan Singh 21",
+    "skills": [
+      "Spring Boot",
+      "AI",
+      "React",
+      "Python",
+      "Node.js"
+    ],
+    "qualification": "MCA",
+    "experience": 2,
+    "location": "Patna",
+    "category": "SC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 22,
+    "name": "Karan Singh 22",
+    "skills": [
+      "SQL",
+      "Express",
+      "MySQL",
+      "Python",
+      "Deep Learning"
+    ],
+    "qualification": "MCA",
+    "experience": 2,
+    "location": "Lucknow",
+    "category": "OBC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 23,
+    "name": "Neha Yadav 23",
+    "skills": [
+      "AI",
+      "React",
+      "Deep Learning",
+      "Java",
+      "Express"
+    ],
+    "qualification": "B.Com",
+    "experience": 2,
+    "location": "Lucknow",
+    "category": "General",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 24,
+    "name": "Neha Yadav 24",
+    "skills": [
+      "Java",
+      "MySQL",
+      "MongoDB"
+    ],
+    "qualification": "MCA",
+    "experience": 1,
+    "location": "Mumbai",
+    "category": "General",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 25,
+    "name": "Sandeep Roy 25",
+    "skills": [
+      "React",
+      "AI",
+      "Node.js"
+    ],
+    "qualification": "MBA",
+    "experience": 4,
+    "location": "Hyderabad",
+    "category": "SC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 26,
+    "name": "Neha Yadav 26",
+    "skills": [
+      "React",
+      "Communication"
+    ],
+    "qualification": "M.Tech",
+    "experience": 3,
+    "location": "Patna",
+    "category": "ST",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 27,
+    "name": "Amit Verma 27",
+    "skills": [
+      "Java",
+      "MongoDB",
+      "Deep Learning",
+      "Machine Learning"
+    ],
+    "qualification": "B.Tech CSE",
+    "experience": 1,
+    "location": "Kolkata",
+    "category": "SC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 28,
+    "name": "Sneha Gupta 28",
+    "skills": [
+      "Node.js",
+      "Python"
+    ],
+    "qualification": "B.Sc IT",
+    "experience": 1,
+    "location": "Mumbai",
+    "category": "SC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 29,
+    "name": "Amit Verma 29",
+    "skills": [
+      "Communication",
+      "Node.js",
+      "MongoDB",
+      "Deep Learning",
+      "Express"
+    ],
+    "qualification": "B.Tech CSE",
+    "experience": 2,
+    "location": "Mumbai",
+    "category": "General",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 30,
+    "name": "Ravi Kumar 30",
+    "skills": [
+      "Spring Boot",
+      "Java",
+      "AI"
+    ],
+    "qualification": "B.Com",
+    "experience": 4,
+    "location": "Chennai",
+    "category": "OBC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 31,
+    "name": "Pooja Mishra 31",
+    "skills": [
+      "Data Analysis",
+      "Communication"
+    ],
+    "qualification": "MBA",
+    "experience": 2,
+    "location": "Chennai",
+    "category": "ST",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 32,
+    "name": "Pooja Mishra 32",
+    "skills": [
+      "Python",
+      "Java"
+    ],
+    "qualification": "MBA",
+    "experience": 1,
+    "location": "Mumbai",
+    "category": "ST",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 33,
+    "name": "Pooja Mishra 33",
+    "skills": [
+      "AI",
+      "Data Analysis",
+      "Express",
+      "Deep Learning"
+    ],
+    "qualification": "B.Sc IT",
+    "experience": 3,
+    "location": "Delhi",
+    "category": "General",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 34,
+    "name": "Sandeep Roy 34",
+    "skills": [
+      "MongoDB",
+      "Machine Learning",
+      "Data Analysis",
+      "Communication"
+    ],
+    "qualification": "MBA",
+    "experience": 1,
+    "location": "Kolkata",
+    "category": "SC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 35,
+    "name": "Anjali Das 35",
+    "skills": [
+      "MySQL",
+      "Deep Learning",
+      "Express"
+    ],
+    "qualification": "B.Sc IT",
+    "experience": 0,
+    "location": "Delhi",
+    "category": "ST",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 36,
+    "name": "Rahul Mehta 36",
+    "skills": [
+      "C++",
+      "MySQL"
+    ],
+    "qualification": "B.Com",
+    "experience": 3,
+    "location": "Bengaluru",
+    "category": "SC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 37,
+    "name": "Priya Sharma 37",
+    "skills": [
+      "AI",
+      "Data Analysis",
+      "Machine Learning",
+      "MySQL"
+    ],
+    "qualification": "B.Com",
+    "experience": 2,
+    "location": "Bengaluru",
+    "category": "ST",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 38,
+    "name": "Ravi Kumar 38",
+    "skills": [
+      "Express",
+      "MySQL",
+      "C++",
+      "Machine Learning"
+    ],
+    "qualification": "B.Com",
+    "experience": 1,
+    "location": "Bengaluru",
+    "category": "ST",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 39,
+    "name": "Priya Sharma 39",
+    "skills": [
+      "Data Analysis",
+      "Machine Learning",
+      "Spring Boot",
+      "Java"
+    ],
+    "qualification": "MBA",
+    "experience": 2,
+    "location": "Kolkata",
+    "category": "General",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 40,
+    "name": "Priya Sharma 40",
+    "skills": [
+      "Machine Learning",
+      "Java"
+    ],
+    "qualification": "B.Tech CSE",
+    "experience": 0,
+    "location": "Kolkata",
+    "category": "ST",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 41,
+    "name": "Neha Yadav 41",
+    "skills": [
+      "Communication",
+      "Deep Learning",
+      "MongoDB",
+      "AI",
+      "Machine Learning"
+    ],
+    "qualification": "B.Sc IT",
+    "experience": 3,
+    "location": "Bengaluru",
+    "category": "OBC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 42,
+    "name": "Sandeep Roy 42",
+    "skills": [
+      "Data Analysis",
+      "Communication",
+      "React"
+    ],
+    "qualification": "M.Tech",
+    "experience": 4,
+    "location": "Chennai",
+    "category": "General",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 43,
+    "name": "Sandeep Roy 43",
+    "skills": [
+      "Deep Learning",
+      "SQL"
+    ],
+    "qualification": "12th Pass",
+    "experience": 4,
+    "location": "Chennai",
+    "category": "General",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 44,
+    "name": "Karan Singh 44",
+    "skills": [
+      "MongoDB",
+      "C++",
+      "SQL",
+      "Communication"
+    ],
+    "qualification": "M.Tech",
+    "experience": 1,
+    "location": "Kolkata",
+    "category": "OBC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 45,
+    "name": "Priya Sharma 45",
+    "skills": [
+      "C++",
+      "React",
+      "Deep Learning"
+    ],
+    "qualification": "12th Pass",
+    "experience": 1,
+    "location": "Bengaluru",
+    "category": "ST",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 46,
+    "name": "Karan Singh 46",
+    "skills": [
+      "C++",
+      "Python"
+    ],
+    "qualification": "B.Sc IT",
+    "experience": 0,
+    "location": "Patna",
+    "category": "General",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 47,
+    "name": "Amit Verma 47",
+    "skills": [
+      "React",
+      "Communication"
+    ],
+    "qualification": "B.Com",
+    "experience": 3,
+    "location": "Delhi",
+    "category": "OBC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 48,
+    "name": "Neha Yadav 48",
+    "skills": [
+      "Deep Learning",
+      "C++",
+      "MongoDB",
+      "React"
+    ],
+    "qualification": "B.Tech CSE",
+    "experience": 3,
+    "location": "Kolkata",
+    "category": "OBC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 49,
+    "name": "Pooja Mishra 49",
+    "skills": [
+      "MySQL",
+      "AI"
+    ],
+    "qualification": "12th Pass",
+    "experience": 3,
+    "location": "Delhi",
+    "category": "SC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 50,
+    "name": "Sneha Gupta 50",
+    "skills": [
+      "SQL",
+      "Machine Learning",
+      "Deep Learning",
+      "C++"
+    ],
+    "qualification": "B.Tech CSE",
+    "experience": 3,
+    "location": "Hyderabad",
+    "category": "OBC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 51,
+    "name": "Priya Sharma 51",
+    "skills": [
+      "C++",
+      "AI",
+      "MySQL",
+      "Java"
+    ],
+    "qualification": "B.Com",
+    "experience": 2,
+    "location": "Chennai",
+    "category": "General",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 52,
+    "name": "Pooja Mishra 52",
+    "skills": [
+      "Machine Learning",
+      "SQL",
+      "Node.js",
+      "Express"
+    ],
+    "qualification": "M.Tech",
+    "experience": 4,
+    "location": "Hyderabad",
+    "category": "General",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 53,
+    "name": "Ravi Kumar 53",
+    "skills": [
+      "C++",
+      "Data Analysis",
+      "Python"
+    ],
+    "qualification": "MCA",
+    "experience": 1,
+    "location": "Hyderabad",
+    "category": "General",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 54,
+    "name": "Sneha Gupta 54",
+    "skills": [
+      "Deep Learning",
+      "MongoDB",
+      "Spring Boot",
+      "Node.js"
+    ],
+    "qualification": "MBA",
+    "experience": 3,
+    "location": "Chennai",
+    "category": "General",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 55,
+    "name": "Priya Sharma 55",
+    "skills": [
+      "React",
+      "Spring Boot",
+      "Java",
+      "SQL"
+    ],
+    "qualification": "M.Tech",
+    "experience": 4,
+    "location": "Mumbai",
+    "category": "SC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 56,
+    "name": "Anjali Das 56",
+    "skills": [
+      "AI",
+      "Java"
+    ],
+    "qualification": "M.Tech",
+    "experience": 0,
+    "location": "Mumbai",
+    "category": "OBC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 57,
+    "name": "Neha Yadav 57",
+    "skills": [
+      "Communication",
+      "AI",
+      "Deep Learning"
+    ],
+    "qualification": "B.Tech CSE",
+    "experience": 4,
+    "location": "Hyderabad",
+    "category": "ST",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 58,
+    "name": "Amit Verma 58",
+    "skills": [
+      "Java",
+      "C++",
+      "Machine Learning",
+      "Python",
+      "Data Analysis"
+    ],
+    "qualification": "12th Pass",
+    "experience": 1,
+    "location": "Delhi",
+    "category": "SC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 59,
+    "name": "Priya Sharma 59",
+    "skills": [
+      "Spring Boot",
+      "Python"
+    ],
+    "qualification": "MBA",
+    "experience": 2,
+    "location": "Mumbai",
+    "category": "SC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 60,
+    "name": "Ravi Kumar 60",
+    "skills": [
+      "React",
+      "Express",
+      "MongoDB",
+      "MySQL"
+    ],
+    "qualification": "B.Tech CSE",
+    "experience": 0,
+    "location": "Mumbai",
+    "category": "ST",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 61,
+    "name": "Pooja Mishra 61",
+    "skills": [
+      "Deep Learning",
+      "Communication"
+    ],
+    "qualification": "MCA",
+    "experience": 4,
+    "location": "Mumbai",
+    "category": "ST",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 62,
+    "name": "Amit Verma 62",
+    "skills": [
+      "Machine Learning",
+      "Express",
+      "Python",
+      "Data Analysis"
+    ],
+    "qualification": "MBA",
+    "experience": 2,
+    "location": "Patna",
+    "category": "OBC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 63,
+    "name": "Pooja Mishra 63",
+    "skills": [
+      "Node.js",
+      "Machine Learning"
+    ],
+    "qualification": "MCA",
+    "experience": 1,
+    "location": "Mumbai",
+    "category": "General",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 64,
+    "name": "Pooja Mishra 64",
+    "skills": [
+      "SQL",
+      "React",
+      "Python"
+    ],
+    "qualification": "B.Com",
+    "experience": 1,
+    "location": "Hyderabad",
+    "category": "OBC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 65,
+    "name": "Ravi Kumar 65",
+    "skills": [
+      "Data Analysis",
+      "Node.js"
+    ],
+    "qualification": "B.Com",
+    "experience": 3,
+    "location": "Chennai",
+    "category": "General",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 66,
+    "name": "Priya Sharma 66",
+    "skills": [
+      "MongoDB",
+      "SQL",
+      "Deep Learning",
+      "AI"
+    ],
+    "qualification": "MBA",
+    "experience": 2,
+    "location": "Mumbai",
+    "category": "OBC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 67,
+    "name": "Karan Singh 67",
+    "skills": [
+      "AI",
+      "Node.js",
+      "Communication",
+      "Express"
+    ],
+    "qualification": "M.Tech",
+    "experience": 1,
+    "location": "Hyderabad",
+    "category": "OBC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 68,
+    "name": "Priya Sharma 68",
+    "skills": [
+      "MongoDB",
+      "Deep Learning",
+      "AI"
+    ],
+    "qualification": "B.Com",
+    "experience": 3,
+    "location": "Bengaluru",
+    "category": "ST",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 69,
+    "name": "Ravi Kumar 69",
+    "skills": [
+      "SQL",
+      "React",
+      "Data Analysis",
+      "Spring Boot"
+    ],
+    "qualification": "B.Tech CSE",
+    "experience": 4,
+    "location": "Mumbai",
+    "category": "ST",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 70,
+    "name": "Priya Sharma 70",
+    "skills": [
+      "Spring Boot",
+      "SQL",
+      "MongoDB",
+      "Deep Learning",
+      "MySQL"
+    ],
+    "qualification": "B.Sc IT",
+    "experience": 4,
+    "location": "Delhi",
+    "category": "ST",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 71,
+    "name": "Sandeep Roy 71",
+    "skills": [
+      "React",
+      "Spring Boot"
+    ],
+    "qualification": "B.Com",
+    "experience": 3,
+    "location": "Kolkata",
+    "category": "OBC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 72,
+    "name": "Amit Verma 72",
+    "skills": [
+      "Machine Learning",
+      "Node.js",
+      "Java",
+      "MongoDB"
+    ],
+    "qualification": "MCA",
+    "experience": 3,
+    "location": "Mumbai",
+    "category": "General",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 73,
+    "name": "Amit Verma 73",
+    "skills": [
+      "Data Analysis",
+      "React"
+    ],
+    "qualification": "M.Tech",
+    "experience": 0,
+    "location": "Chennai",
+    "category": "ST",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 74,
+    "name": "Karan Singh 74",
+    "skills": [
+      "C++",
+      "Deep Learning",
+      "Python",
+      "Node.js",
+      "Java"
+    ],
+    "qualification": "M.Tech",
+    "experience": 4,
+    "location": "Chennai",
+    "category": "General",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 75,
+    "name": "Sneha Gupta 75",
+    "skills": [
+      "Communication",
+      "Machine Learning",
+      "Spring Boot",
+      "Deep Learning"
+    ],
+    "qualification": "B.Tech CSE",
+    "experience": 3,
+    "location": "Bengaluru",
+    "category": "SC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 76,
+    "name": "Ravi Kumar 76",
+    "skills": [
+      "Data Analysis",
+      "React",
+      "MongoDB"
+    ],
+    "qualification": "B.Com",
+    "experience": 0,
+    "location": "Mumbai",
+    "category": "OBC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 77,
+    "name": "Ravi Kumar 77",
+    "skills": [
+      "C++",
+      "Communication",
+      "Express",
+      "Python"
+    ],
+    "qualification": "B.Com",
+    "experience": 0,
+    "location": "Mumbai",
+    "category": "OBC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 78,
+    "name": "Karan Singh 78",
+    "skills": [
+      "Communication",
+      "MySQL"
+    ],
+    "qualification": "B.Tech CSE",
+    "experience": 2,
+    "location": "Chennai",
+    "category": "OBC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 79,
+    "name": "Karan Singh 79",
+    "skills": [
+      "Communication",
+      "SQL",
+      "Spring Boot"
+    ],
+    "qualification": "M.Tech",
+    "experience": 0,
+    "location": "Delhi",
+    "category": "General",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 80,
+    "name": "Rahul Mehta 80",
+    "skills": [
+      "React",
+      "C++",
+      "SQL",
+      "Python"
+    ],
+    "qualification": "MCA",
+    "experience": 4,
+    "location": "Lucknow",
+    "category": "General",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 81,
+    "name": "Anjali Das 81",
+    "skills": [
+      "Machine Learning",
+      "Python"
+    ],
+    "qualification": "12th Pass",
+    "experience": 2,
+    "location": "Chennai",
+    "category": "OBC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 82,
+    "name": "Rahul Mehta 82",
+    "skills": [
+      "Data Analysis",
+      "Express",
+      "Spring Boot",
+      "Communication",
+      "MongoDB"
+    ],
+    "qualification": "B.Sc IT",
+    "experience": 2,
+    "location": "Lucknow",
+    "category": "SC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 83,
+    "name": "Sneha Gupta 83",
+    "skills": [
+      "AI",
+      "Python",
+      "SQL",
+      "Machine Learning"
+    ],
+    "qualification": "B.Sc IT",
+    "experience": 1,
+    "location": "Mumbai",
+    "category": "SC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 84,
+    "name": "Anjali Das 84",
+    "skills": [
+      "React",
+      "Python"
+    ],
+    "qualification": "B.Sc IT",
+    "experience": 1,
+    "location": "Kolkata",
+    "category": "SC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 85,
+    "name": "Sandeep Roy 85",
+    "skills": [
+      "Communication",
+      "Express",
+      "Python"
+    ],
+    "qualification": "MCA",
+    "experience": 0,
+    "location": "Chennai",
+    "category": "ST",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 86,
+    "name": "Sandeep Roy 86",
+    "skills": [
+      "MySQL",
+      "Data Analysis",
+      "Machine Learning"
+    ],
+    "qualification": "MBA",
+    "experience": 3,
+    "location": "Hyderabad",
+    "category": "SC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 87,
+    "name": "Karan Singh 87",
+    "skills": [
+      "Python",
+      "MySQL",
+      "Spring Boot"
+    ],
+    "qualification": "B.Sc IT",
+    "experience": 4,
+    "location": "Chennai",
+    "category": "OBC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 88,
+    "name": "Rahul Mehta 88",
+    "skills": [
+      "Python",
+      "AI"
+    ],
+    "qualification": "12th Pass",
+    "experience": 0,
+    "location": "Patna",
+    "category": "OBC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 89,
+    "name": "Anjali Das 89",
+    "skills": [
+      "Express",
+      "Machine Learning",
+      "Communication",
+      "Python"
+    ],
+    "qualification": "12th Pass",
+    "experience": 1,
+    "location": "Lucknow",
+    "category": "ST",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 90,
+    "name": "Karan Singh 90",
+    "skills": [
+      "Deep Learning",
+      "MySQL",
+      "Communication",
+      "React",
+      "Python"
+    ],
+    "qualification": "B.Com",
+    "experience": 3,
+    "location": "Mumbai",
+    "category": "ST",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 91,
+    "name": "Priya Sharma 91",
+    "skills": [
+      "C++",
+      "Machine Learning"
+    ],
+    "qualification": "B.Tech CSE",
+    "experience": 2,
+    "location": "Lucknow",
+    "category": "ST",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 92,
+    "name": "Amit Verma 92",
+    "skills": [
+      "Python",
+      "Spring Boot",
+      "React"
+    ],
+    "qualification": "M.Tech",
+    "experience": 1,
+    "location": "Mumbai",
+    "category": "ST",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 93,
+    "name": "Karan Singh 93",
+    "skills": [
+      "C++",
+      "MongoDB",
+      "MySQL",
+      "Deep Learning",
+      "Data Analysis"
+    ],
+    "qualification": "MCA",
+    "experience": 4,
+    "location": "Chennai",
+    "category": "General",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 94,
+    "name": "Sneha Gupta 94",
+    "skills": [
+      "Machine Learning",
+      "Communication",
+      "Data Analysis"
+    ],
+    "qualification": "12th Pass",
+    "experience": 4,
+    "location": "Bengaluru",
+    "category": "General",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 95,
+    "name": "Amit Verma 95",
+    "skills": [
+      "MongoDB",
+      "Python",
+      "React",
+      "Spring Boot",
+      "Communication"
+    ],
+    "qualification": "B.Com",
+    "experience": 4,
+    "location": "Delhi",
+    "category": "SC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 96,
+    "name": "Rahul Mehta 96",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "C++",
+      "SQL",
+      "Spring Boot"
+    ],
+    "qualification": "MCA",
+    "experience": 2,
+    "location": "Bengaluru",
+    "category": "ST",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 97,
+    "name": "Priya Sharma 97",
+    "skills": [
+      "C++",
+      "Node.js"
+    ],
+    "qualification": "B.Tech CSE",
+    "experience": 1,
+    "location": "Delhi",
+    "category": "SC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 98,
+    "name": "Neha Yadav 98",
+    "skills": [
+      "Deep Learning",
+      "Express",
+      "Node.js"
+    ],
+    "qualification": "B.Sc IT",
+    "experience": 3,
+    "location": "Chennai",
+    "category": "SC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 99,
+    "name": "Pooja Mishra 99",
+    "skills": [
+      "React",
+      "AI",
+      "Java",
+      "Communication"
+    ],
+    "qualification": "B.Tech CSE",
+    "experience": 0,
+    "location": "Kolkata",
+    "category": "SC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 100,
+    "name": "Ravi Kumar 100",
+    "skills": [
+      "MySQL",
+      "Data Analysis"
+    ],
+    "qualification": "MBA",
+    "experience": 4,
+    "location": "Mumbai",
+    "category": "OBC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 101,
+    "name": "Amit Verma 101",
+    "skills": [
+      "Spring Boot",
+      "Communication",
+      "Data Analysis",
+      "Python",
+      "Deep Learning"
+    ],
+    "qualification": "B.Sc IT",
+    "experience": 4,
+    "location": "Delhi",
+    "category": "OBC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 102,
+    "name": "Ravi Kumar 102",
+    "skills": [
+      "Deep Learning",
+      "React",
+      "AI",
+      "Communication",
+      "Spring Boot"
+    ],
+    "qualification": "B.Sc IT",
+    "experience": 3,
+    "location": "Kolkata",
+    "category": "OBC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 103,
+    "name": "Sandeep Roy 103",
+    "skills": [
+      "Express",
+      "AI",
+      "React",
+      "MongoDB"
+    ],
+    "qualification": "B.Sc IT",
+    "experience": 2,
+    "location": "Chennai",
+    "category": "General",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 104,
+    "name": "Amit Verma 104",
+    "skills": [
+      "MongoDB",
+      "Data Analysis",
+      "Deep Learning",
+      "Communication"
+    ],
+    "qualification": "B.Tech CSE",
+    "experience": 4,
+    "location": "Chennai",
+    "category": "SC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 105,
+    "name": "Pooja Mishra 105",
+    "skills": [
+      "Python",
+      "Express",
+      "Communication",
+      "MongoDB",
+      "React"
+    ],
+    "qualification": "B.Sc IT",
+    "experience": 1,
+    "location": "Delhi",
+    "category": "General",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 106,
+    "name": "Karan Singh 106",
+    "skills": [
+      "Deep Learning",
+      "Node.js",
+      "Python",
+      "React"
+    ],
+    "qualification": "B.Com",
+    "experience": 0,
+    "location": "Kolkata",
+    "category": "OBC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 107,
+    "name": "Karan Singh 107",
+    "skills": [
+      "MongoDB",
+      "Deep Learning",
+      "Communication"
+    ],
+    "qualification": "12th Pass",
+    "experience": 1,
+    "location": "Kolkata",
+    "category": "OBC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 108,
+    "name": "Rahul Mehta 108",
+    "skills": [
+      "React",
+      "Python",
+      "Deep Learning",
+      "Data Analysis",
+      "AI"
+    ],
+    "qualification": "B.Com",
+    "experience": 1,
+    "location": "Hyderabad",
+    "category": "ST",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 109,
+    "name": "Sneha Gupta 109",
+    "skills": [
+      "MySQL",
+      "AI",
+      "MongoDB",
+      "SQL"
+    ],
+    "qualification": "12th Pass",
+    "experience": 3,
+    "location": "Mumbai",
+    "category": "ST",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 110,
+    "name": "Neha Yadav 110",
+    "skills": [
+      "Data Analysis",
+      "Java",
+      "SQL",
+      "Express"
+    ],
+    "qualification": "MCA",
+    "experience": 0,
+    "location": "Patna",
+    "category": "General",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 111,
+    "name": "Neha Yadav 111",
+    "skills": [
+      "Deep Learning",
+      "Python",
+      "MongoDB"
+    ],
+    "qualification": "B.Com",
+    "experience": 3,
+    "location": "Hyderabad",
+    "category": "General",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 112,
+    "name": "Sneha Gupta 112",
+    "skills": [
+      "AI",
+      "MySQL",
+      "MongoDB",
+      "Java",
+      "C++"
+    ],
+    "qualification": "B.Com",
+    "experience": 3,
+    "location": "Mumbai",
+    "category": "OBC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 113,
+    "name": "Karan Singh 113",
+    "skills": [
+      "Deep Learning",
+      "SQL"
+    ],
+    "qualification": "M.Tech",
+    "experience": 3,
+    "location": "Delhi",
+    "category": "General",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 114,
+    "name": "Priya Sharma 114",
+    "skills": [
+      "MySQL",
+      "React"
+    ],
+    "qualification": "MBA",
+    "experience": 2,
+    "location": "Kolkata",
+    "category": "SC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 115,
+    "name": "Pooja Mishra 115",
+    "skills": [
+      "Machine Learning",
+      "Python"
+    ],
+    "qualification": "M.Tech",
+    "experience": 4,
+    "location": "Delhi",
+    "category": "SC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 116,
+    "name": "Sandeep Roy 116",
+    "skills": [
+      "Machine Learning",
+      "Spring Boot",
+      "Express",
+      "Python",
+      "Data Analysis"
+    ],
+    "qualification": "B.Tech CSE",
+    "experience": 3,
+    "location": "Patna",
+    "category": "SC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 117,
+    "name": "Pooja Mishra 117",
+    "skills": [
+      "MongoDB",
+      "Node.js",
+      "Spring Boot",
+      "MySQL",
+      "Deep Learning"
+    ],
+    "qualification": "B.Com",
+    "experience": 1,
+    "location": "Lucknow",
+    "category": "ST",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 118,
+    "name": "Rahul Mehta 118",
+    "skills": [
+      "C++",
+      "Java",
+      "Python"
+    ],
+    "qualification": "M.Tech",
+    "experience": 0,
+    "location": "Chennai",
+    "category": "ST",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 119,
+    "name": "Sneha Gupta 119",
+    "skills": [
+      "React",
+      "Machine Learning",
+      "Communication",
+      "SQL"
+    ],
+    "qualification": "MBA",
+    "experience": 1,
+    "location": "Lucknow",
+    "category": "General",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 120,
+    "name": "Sandeep Roy 120",
+    "skills": [
+      "Machine Learning",
+      "Data Analysis",
+      "Spring Boot"
+    ],
+    "qualification": "12th Pass",
+    "experience": 1,
+    "location": "Chennai",
+    "category": "SC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 121,
+    "name": "Priya Sharma 121",
+    "skills": [
+      "AI",
+      "C++",
+      "Data Analysis",
+      "MySQL",
+      "Deep Learning"
+    ],
+    "qualification": "B.Tech CSE",
+    "experience": 0,
+    "location": "Patna",
+    "category": "SC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 122,
+    "name": "Anjali Das 122",
+    "skills": [
+      "MongoDB",
+      "Spring Boot",
+      "Data Analysis"
+    ],
+    "qualification": "B.Tech CSE",
+    "experience": 1,
+    "location": "Lucknow",
+    "category": "SC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 123,
+    "name": "Karan Singh 123",
+    "skills": [
+      "MongoDB",
+      "Deep Learning",
+      "Express",
+      "Machine Learning"
+    ],
+    "qualification": "MCA",
+    "experience": 1,
+    "location": "Kolkata",
+    "category": "OBC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 124,
+    "name": "Sneha Gupta 124",
+    "skills": [
+      "AI",
+      "Communication",
+      "Express",
+      "Node.js"
+    ],
+    "qualification": "B.Sc IT",
+    "experience": 0,
+    "location": "Bengaluru",
+    "category": "SC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 125,
+    "name": "Priya Sharma 125",
+    "skills": [
+      "MySQL",
+      "Deep Learning",
+      "Node.js",
+      "Python",
+      "Data Analysis"
+    ],
+    "qualification": "MBA",
+    "experience": 3,
+    "location": "Lucknow",
+    "category": "ST",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 126,
+    "name": "Karan Singh 126",
+    "skills": [
+      "Python",
+      "AI",
+      "React"
+    ],
+    "qualification": "12th Pass",
+    "experience": 1,
+    "location": "Lucknow",
+    "category": "General",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 127,
+    "name": "Neha Yadav 127",
+    "skills": [
+      "C++",
+      "Express",
+      "MySQL",
+      "Java",
+      "Communication"
+    ],
+    "qualification": "B.Tech CSE",
+    "experience": 3,
+    "location": "Kolkata",
+    "category": "SC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 128,
+    "name": "Anjali Das 128",
+    "skills": [
+      "C++",
+      "SQL",
+      "Data Analysis",
+      "React"
+    ],
+    "qualification": "12th Pass",
+    "experience": 4,
+    "location": "Delhi",
+    "category": "ST",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 129,
+    "name": "Ravi Kumar 129",
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Java"
+    ],
+    "qualification": "B.Tech CSE",
+    "experience": 2,
+    "location": "Chennai",
+    "category": "OBC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 130,
+    "name": "Anjali Das 130",
+    "skills": [
+      "Deep Learning",
+      "SQL"
+    ],
+    "qualification": "MBA",
+    "experience": 4,
+    "location": "Patna",
+    "category": "SC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 131,
+    "name": "Pooja Mishra 131",
+    "skills": [
+      "React",
+      "Spring Boot",
+      "Python",
+      "Machine Learning",
+      "SQL"
+    ],
+    "qualification": "12th Pass",
+    "experience": 3,
+    "location": "Bengaluru",
+    "category": "ST",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 132,
+    "name": "Anjali Das 132",
+    "skills": [
+      "MongoDB",
+      "Spring Boot"
+    ],
+    "qualification": "12th Pass",
+    "experience": 2,
+    "location": "Kolkata",
+    "category": "OBC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 133,
+    "name": "Amit Verma 133",
+    "skills": [
+      "MongoDB",
+      "Data Analysis",
+      "SQL"
+    ],
+    "qualification": "B.Tech CSE",
+    "experience": 2,
+    "location": "Patna",
+    "category": "OBC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 134,
+    "name": "Rahul Mehta 134",
+    "skills": [
+      "Spring Boot",
+      "Communication",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ],
+    "qualification": "B.Tech CSE",
+    "experience": 4,
+    "location": "Patna",
+    "category": "ST",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 135,
+    "name": "Priya Sharma 135",
+    "skills": [
+      "React",
+      "Node.js",
+      "Python"
+    ],
+    "qualification": "B.Tech CSE",
+    "experience": 1,
+    "location": "Bengaluru",
+    "category": "ST",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 136,
+    "name": "Rahul Mehta 136",
+    "skills": [
+      "SQL",
+      "Express",
+      "React",
+      "MongoDB",
+      "MySQL"
+    ],
+    "qualification": "M.Tech",
+    "experience": 0,
+    "location": "Bengaluru",
+    "category": "OBC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 137,
+    "name": "Neha Yadav 137",
+    "skills": [
+      "Node.js",
+      "Express"
+    ],
+    "qualification": "B.Com",
+    "experience": 1,
+    "location": "Patna",
+    "category": "OBC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 138,
+    "name": "Rahul Mehta 138",
+    "skills": [
+      "Python",
+      "AI",
+      "C++",
+      "Communication",
+      "MySQL"
+    ],
+    "qualification": "MCA",
+    "experience": 3,
+    "location": "Bengaluru",
+    "category": "SC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 139,
+    "name": "Anjali Das 139",
+    "skills": [
+      "Data Analysis",
+      "Node.js"
+    ],
+    "qualification": "MCA",
+    "experience": 0,
+    "location": "Delhi",
+    "category": "General",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 140,
+    "name": "Ravi Kumar 140",
+    "skills": [
+      "Data Analysis",
+      "C++",
+      "Machine Learning"
+    ],
+    "qualification": "M.Tech",
+    "experience": 2,
+    "location": "Hyderabad",
+    "category": "OBC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 141,
+    "name": "Karan Singh 141",
+    "skills": [
+      "Machine Learning",
+      "Data Analysis"
+    ],
+    "qualification": "MBA",
+    "experience": 4,
+    "location": "Delhi",
+    "category": "SC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 142,
+    "name": "Neha Yadav 142",
+    "skills": [
+      "Java",
+      "React",
+      "Data Analysis"
+    ],
+    "qualification": "12th Pass",
+    "experience": 0,
+    "location": "Mumbai",
+    "category": "OBC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 143,
+    "name": "Pooja Mishra 143",
+    "skills": [
+      "Deep Learning",
+      "React",
+      "SQL",
+      "C++"
+    ],
+    "qualification": "MBA",
+    "experience": 2,
+    "location": "Hyderabad",
+    "category": "General",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 144,
+    "name": "Ravi Kumar 144",
+    "skills": [
+      "Python",
+      "C++",
+      "Data Analysis",
+      "Java",
+      "Spring Boot"
+    ],
+    "qualification": "12th Pass",
+    "experience": 3,
+    "location": "Kolkata",
+    "category": "SC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 145,
+    "name": "Karan Singh 145",
+    "skills": [
+      "MongoDB",
+      "AI",
+      "C++"
+    ],
+    "qualification": "M.Tech",
+    "experience": 3,
+    "location": "Lucknow",
+    "category": "General",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 146,
+    "name": "Sneha Gupta 146",
+    "skills": [
+      "AI",
+      "Deep Learning",
+      "MongoDB",
+      "Spring Boot"
+    ],
+    "qualification": "12th Pass",
+    "experience": 0,
+    "location": "Delhi",
+    "category": "OBC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 147,
+    "name": "Sneha Gupta 147",
+    "skills": [
+      "Deep Learning",
+      "React"
+    ],
+    "qualification": "B.Tech CSE",
+    "experience": 3,
+    "location": "Hyderabad",
+    "category": "ST",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 148,
+    "name": "Rahul Mehta 148",
+    "skills": [
+      "MongoDB",
+      "Express"
+    ],
+    "qualification": "MCA",
+    "experience": 1,
+    "location": "Kolkata",
+    "category": "SC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 149,
+    "name": "Priya Sharma 149",
+    "skills": [
+      "Communication",
+      "SQL"
+    ],
+    "qualification": "MCA",
+    "experience": 1,
+    "location": "Bengaluru",
+    "category": "General",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 150,
+    "name": "Karan Singh 150",
+    "skills": [
+      "Express",
+      "Machine Learning",
+      "Python",
+      "MySQL",
+      "React"
+    ],
+    "qualification": "MCA",
+    "experience": 4,
+    "location": "Hyderabad",
+    "category": "General",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 151,
+    "name": "Anjali Das 151",
+    "skills": [
+      "Spring Boot",
+      "Express"
+    ],
+    "qualification": "B.Tech CSE",
+    "experience": 4,
+    "location": "Kolkata",
+    "category": "General",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 152,
+    "name": "Sneha Gupta 152",
+    "skills": [
+      "React",
+      "Python",
+      "Spring Boot",
+      "Node.js"
+    ],
+    "qualification": "12th Pass",
+    "experience": 0,
+    "location": "Lucknow",
+    "category": "SC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 153,
+    "name": "Sandeep Roy 153",
+    "skills": [
+      "Data Analysis",
+      "React"
+    ],
+    "qualification": "12th Pass",
+    "experience": 2,
+    "location": "Lucknow",
+    "category": "ST",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 154,
+    "name": "Pooja Mishra 154",
+    "skills": [
+      "Data Analysis",
+      "Java",
+      "AI"
+    ],
+    "qualification": "MCA",
+    "experience": 3,
+    "location": "Hyderabad",
+    "category": "ST",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 155,
+    "name": "Rahul Mehta 155",
+    "skills": [
+      "Node.js",
+      "Communication",
+      "AI",
+      "Machine Learning"
+    ],
+    "qualification": "MCA",
+    "experience": 3,
+    "location": "Kolkata",
+    "category": "General",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 156,
+    "name": "Amit Verma 156",
+    "skills": [
+      "Python",
+      "C++",
+      "Java",
+      "MySQL",
+      "React"
+    ],
+    "qualification": "B.Tech CSE",
+    "experience": 2,
+    "location": "Mumbai",
+    "category": "SC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 157,
+    "name": "Karan Singh 157",
+    "skills": [
+      "Data Analysis",
+      "Python",
+      "Express",
+      "AI",
+      "MySQL"
+    ],
+    "qualification": "B.Com",
+    "experience": 3,
+    "location": "Kolkata",
+    "category": "SC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 158,
+    "name": "Anjali Das 158",
+    "skills": [
+      "C++",
+      "Express",
+      "Python"
+    ],
+    "qualification": "B.Com",
+    "experience": 1,
+    "location": "Bengaluru",
+    "category": "ST",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 159,
+    "name": "Sneha Gupta 159",
+    "skills": [
+      "C++",
+      "Java"
+    ],
+    "qualification": "B.Sc IT",
+    "experience": 1,
+    "location": "Hyderabad",
+    "category": "General",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 160,
+    "name": "Anjali Das 160",
+    "skills": [
+      "MongoDB",
+      "Express"
+    ],
+    "qualification": "M.Tech",
+    "experience": 1,
+    "location": "Mumbai",
+    "category": "ST",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 161,
+    "name": "Amit Verma 161",
+    "skills": [
+      "Express",
+      "Python"
+    ],
+    "qualification": "MCA",
+    "experience": 0,
+    "location": "Chennai",
+    "category": "SC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 162,
+    "name": "Rahul Mehta 162",
+    "skills": [
+      "Deep Learning",
+      "Node.js"
+    ],
+    "qualification": "MBA",
+    "experience": 3,
+    "location": "Mumbai",
+    "category": "General",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 163,
+    "name": "Amit Verma 163",
+    "skills": [
+      "C++",
+      "MySQL",
+      "React",
+      "Java",
+      "Python"
+    ],
+    "qualification": "12th Pass",
+    "experience": 2,
+    "location": "Lucknow",
+    "category": "General",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 164,
+    "name": "Anjali Das 164",
+    "skills": [
+      "MongoDB",
+      "Express"
+    ],
+    "qualification": "B.Tech CSE",
+    "experience": 0,
+    "location": "Chennai",
+    "category": "SC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 165,
+    "name": "Amit Verma 165",
+    "skills": [
+      "Spring Boot",
+      "Java",
+      "Communication",
+      "React"
+    ],
+    "qualification": "M.Tech",
+    "experience": 1,
+    "location": "Chennai",
+    "category": "ST",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 166,
+    "name": "Rahul Mehta 166",
+    "skills": [
+      "MongoDB",
+      "Python",
+      "Communication"
+    ],
+    "qualification": "MBA",
+    "experience": 2,
+    "location": "Lucknow",
+    "category": "General",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 167,
+    "name": "Sandeep Roy 167",
+    "skills": [
+      "Communication",
+      "Spring Boot",
+      "Node.js",
+      "Python"
+    ],
+    "qualification": "B.Com",
+    "experience": 4,
+    "location": "Kolkata",
+    "category": "ST",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 168,
+    "name": "Sandeep Roy 168",
+    "skills": [
+      "Express",
+      "C++",
+      "Machine Learning",
+      "Node.js"
+    ],
+    "qualification": "12th Pass",
+    "experience": 4,
+    "location": "Bengaluru",
+    "category": "SC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 169,
+    "name": "Rahul Mehta 169",
+    "skills": [
+      "React",
+      "Machine Learning"
+    ],
+    "qualification": "B.Com",
+    "experience": 2,
+    "location": "Lucknow",
+    "category": "SC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 170,
+    "name": "Ravi Kumar 170",
+    "skills": [
+      "MongoDB",
+      "AI"
+    ],
+    "qualification": "B.Sc IT",
+    "experience": 1,
+    "location": "Lucknow",
+    "category": "General",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 171,
+    "name": "Ravi Kumar 171",
+    "skills": [
+      "C++",
+      "Express"
+    ],
+    "qualification": "12th Pass",
+    "experience": 0,
+    "location": "Kolkata",
+    "category": "OBC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 172,
+    "name": "Sandeep Roy 172",
+    "skills": [
+      "MySQL",
+      "Communication",
+      "SQL",
+      "Machine Learning",
+      "Java"
+    ],
+    "qualification": "12th Pass",
+    "experience": 1,
+    "location": "Hyderabad",
+    "category": "SC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 173,
+    "name": "Priya Sharma 173",
+    "skills": [
+      "Data Analysis",
+      "Deep Learning",
+      "Communication",
+      "Machine Learning"
+    ],
+    "qualification": "MCA",
+    "experience": 1,
+    "location": "Delhi",
+    "category": "ST",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 174,
+    "name": "Neha Yadav 174",
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Data Analysis",
+      "Express"
+    ],
+    "qualification": "M.Tech",
+    "experience": 1,
+    "location": "Kolkata",
+    "category": "SC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 175,
+    "name": "Ravi Kumar 175",
+    "skills": [
+      "MongoDB",
+      "SQL",
+      "Communication",
+      "Java"
+    ],
+    "qualification": "B.Tech CSE",
+    "experience": 0,
+    "location": "Lucknow",
+    "category": "General",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 176,
+    "name": "Anjali Das 176",
+    "skills": [
+      "Java",
+      "Machine Learning",
+      "Communication",
+      "Python",
+      "MySQL"
+    ],
+    "qualification": "B.Sc IT",
+    "experience": 2,
+    "location": "Patna",
+    "category": "OBC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 177,
+    "name": "Ravi Kumar 177",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "MySQL",
+      "Python",
+      "C++"
+    ],
+    "qualification": "MBA",
+    "experience": 3,
+    "location": "Patna",
+    "category": "SC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 178,
+    "name": "Amit Verma 178",
+    "skills": [
+      "Python",
+      "Machine Learning"
+    ],
+    "qualification": "B.Com",
+    "experience": 4,
+    "location": "Lucknow",
+    "category": "General",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 179,
+    "name": "Neha Yadav 179",
+    "skills": [
+      "Express",
+      "AI",
+      "Machine Learning",
+      "SQL",
+      "C++"
+    ],
+    "qualification": "12th Pass",
+    "experience": 2,
+    "location": "Patna",
+    "category": "General",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 180,
+    "name": "Pooja Mishra 180",
+    "skills": [
+      "C++",
+      "AI",
+      "MySQL",
+      "SQL",
+      "Node.js"
+    ],
+    "qualification": "B.Tech CSE",
+    "experience": 3,
+    "location": "Lucknow",
+    "category": "ST",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 181,
+    "name": "Priya Sharma 181",
+    "skills": [
+      "AI",
+      "MongoDB",
+      "Spring Boot"
+    ],
+    "qualification": "MBA",
+    "experience": 3,
+    "location": "Chennai",
+    "category": "General",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 182,
+    "name": "Karan Singh 182",
+    "skills": [
+      "SQL",
+      "Machine Learning",
+      "Express",
+      "AI",
+      "Data Analysis"
+    ],
+    "qualification": "B.Tech CSE",
+    "experience": 4,
+    "location": "Mumbai",
+    "category": "OBC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 183,
+    "name": "Neha Yadav 183",
+    "skills": [
+      "SQL",
+      "Deep Learning",
+      "Data Analysis"
+    ],
+    "qualification": "M.Tech",
+    "experience": 3,
+    "location": "Lucknow",
+    "category": "General",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 184,
+    "name": "Sandeep Roy 184",
+    "skills": [
+      "Communication",
+      "AI",
+      "Deep Learning",
+      "C++",
+      "Spring Boot"
+    ],
+    "qualification": "M.Tech",
+    "experience": 2,
+    "location": "Delhi",
+    "category": "General",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 185,
+    "name": "Rahul Mehta 185",
+    "skills": [
+      "Python",
+      "SQL",
+      "Express",
+      "Data Analysis",
+      "MySQL"
+    ],
+    "qualification": "MCA",
+    "experience": 3,
+    "location": "Delhi",
+    "category": "OBC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 186,
+    "name": "Ravi Kumar 186",
+    "skills": [
+      "MongoDB",
+      "Spring Boot",
+      "Data Analysis",
+      "Node.js",
+      "Communication"
+    ],
+    "qualification": "B.Com",
+    "experience": 4,
+    "location": "Bengaluru",
+    "category": "OBC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 187,
+    "name": "Priya Sharma 187",
+    "skills": [
+      "AI",
+      "Python"
+    ],
+    "qualification": "B.Sc IT",
+    "experience": 4,
+    "location": "Lucknow",
+    "category": "OBC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 188,
+    "name": "Rahul Mehta 188",
+    "skills": [
+      "Express",
+      "Java"
+    ],
+    "qualification": "MCA",
+    "experience": 1,
+    "location": "Hyderabad",
+    "category": "OBC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 189,
+    "name": "Pooja Mishra 189",
+    "skills": [
+      "AI",
+      "Deep Learning"
+    ],
+    "qualification": "M.Tech",
+    "experience": 1,
+    "location": "Patna",
+    "category": "SC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 190,
+    "name": "Priya Sharma 190",
+    "skills": [
+      "Machine Learning",
+      "C++"
+    ],
+    "qualification": "B.Com",
+    "experience": 4,
+    "location": "Lucknow",
+    "category": "ST",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 191,
+    "name": "Amit Verma 191",
+    "skills": [
+      "Express",
+      "SQL",
+      "AI",
+      "Java"
+    ],
+    "qualification": "MCA",
+    "experience": 3,
+    "location": "Chennai",
+    "category": "General",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 192,
+    "name": "Amit Verma 192",
+    "skills": [
+      "Spring Boot",
+      "MongoDB",
+      "AI",
+      "Express"
+    ],
+    "qualification": "B.Com",
+    "experience": 2,
+    "location": "Lucknow",
+    "category": "SC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 193,
+    "name": "Amit Verma 193",
+    "skills": [
+      "Communication",
+      "Express",
+      "Machine Learning",
+      "Java"
+    ],
+    "qualification": "B.Sc IT",
+    "experience": 1,
+    "location": "Lucknow",
+    "category": "ST",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 194,
+    "name": "Ravi Kumar 194",
+    "skills": [
+      "SQL",
+      "Machine Learning",
+      "React",
+      "Communication",
+      "AI"
+    ],
+    "qualification": "B.Com",
+    "experience": 3,
+    "location": "Lucknow",
+    "category": "OBC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 195,
+    "name": "Karan Singh 195",
+    "skills": [
+      "Spring Boot",
+      "SQL",
+      "Java"
+    ],
+    "qualification": "MCA",
+    "experience": 1,
+    "location": "Patna",
+    "category": "OBC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 196,
+    "name": "Amit Verma 196",
+    "skills": [
+      "Java",
+      "Data Analysis",
+      "React",
+      "Node.js",
+      "Python"
+    ],
+    "qualification": "MBA",
+    "experience": 4,
+    "location": "Patna",
+    "category": "SC",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 197,
+    "name": "Sandeep Roy 197",
+    "skills": [
+      "Java",
+      "SQL",
+      "Spring Boot",
+      "Express",
+      "AI"
+    ],
+    "qualification": "B.Sc IT",
+    "experience": 0,
+    "location": "Kolkata",
+    "category": "OBC",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 198,
+    "name": "Neha Yadav 198",
+    "skills": [
+      "Deep Learning",
+      "Data Analysis",
+      "Machine Learning"
+    ],
+    "qualification": "M.Tech",
+    "experience": 2,
+    "location": "Delhi",
+    "category": "General",
+    "past_internship": false
+  },
+  {
+    "candidate_id": 199,
+    "name": "Pooja Mishra 199",
+    "skills": [
+      "Communication",
+      "Data Analysis",
+      "Express"
+    ],
+    "qualification": "B.Sc IT",
+    "experience": 3,
+    "location": "Chennai",
+    "category": "General",
+    "past_internship": true
+  },
+  {
+    "candidate_id": 200,
+    "name": "Rahul Mehta 200",
+    "skills": [
+      "Machine Learning",
+      "Spring Boot",
+      "Deep Learning",
+      "SQL",
+      "Express"
+    ],
+    "qualification": "B.Tech CSE",
+    "experience": 2,
+    "location": "Bengaluru",
+    "category": "ST",
+    "past_internship": false
+  }
+]
